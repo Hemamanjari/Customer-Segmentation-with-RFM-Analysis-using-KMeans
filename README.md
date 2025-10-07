@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-RFM-Analysis-using-KMeans
+# Customer Segmentation for Marketing Optimization
 
 
 Project Objective  
